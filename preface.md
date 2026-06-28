@@ -1,77 +1,93 @@
-## Preface
+# Preface
 
-This book began with a conversation.
+The title of this book is borrowed from one of the most famous sermons in American history.
 
-One day I found myself listening to a discussion between two people whose views of spirituality could hardly have been more different. One was a Christian fundamentalist. The other was a post-Christian spiritual seeker. As I listened, I found myself captivated by the exchange. It was thoughtful, passionate, and at times deeply uncomfortable.
+When I first encountered Jonathan Edwards' *Sinners in the Hands of an Angry God*, I confess my reaction was not especially charitable. Like many modern readers, I found myself rolling my eyes. The imagery felt severe, the emphasis unsettling, and the portrait of God difficult to reconcile with the God I had come to know through years of contemplation, prayer, and reflection.
 
-What surprised me most was that I could see myself in both of them.
+But as time passed, something began to trouble me.
 
-The fundamentalist felt familiar. His words echoed a world I once inhabited. I remembered the certainty. The confidence. The conviction that I possessed the truth and that the boundaries between right and wrong, saved and lost, were clearly defined. There is a certain power in that kind of certainty. It offers stability in a confusing world.
+It was not Edwards' sermon.
 
-Yet beneath that certainty I could also hear something else. Fear.
+It was my response to it.
 
-I remembered the anxiety of trying to measure up. The constant self-examination. The question that lingered in the background of faith: *Am I truly safe? Am I really good enough?*
+It is remarkably easy to dismiss the convictions of another generation. We inherit different questions, different fears, different assumptions, and often congratulate ourselves for having moved beyond those who came before us. Yet such confidence rarely leads to understanding. If anything, it simply replaces one form of certainty with another.
 
-The God portrayed in that world was immense, holy, and just. Yet mercy often seemed secondary to judgment. God was presented as a cosmic accountant, carefully recording every thought, every action, every failure. Like an eternal version of Santa Claus keeping a list of the naughty and the nice, except that the consequences were infinitely higher. The naughty did not receive coal. They were cast into a fiery pit and condemned to suffer forever.
+I realized that if this book was to speak honestly about God, it would first need to speak honestly about me.
 
-I do not describe this to mock it. I describe it because I once believed it.
+So instead of asking, "How could anyone believe this?" I began asking a different question.
 
-On the other side stood the spiritualist.
+"What kind of world makes this image of God compelling?"
 
-His perspective felt lighter. More spacious. More inclusive. He was willing to explore ideas without needing to possess them. He seemed less interested in drawing lines and more interested in building bridges. He emphasized what unites rather than what divides. Compassion seemed to take precedence over certainty. Curiosity over dogma.
+That question changed everything.
 
-And once again, I recognized myself.
+The more I reflected, the more I discovered that every image of God, however incomplete, was answering some deeply human longing. We long for justice because evil wounds us. We long for belonging because loneliness aches within us. We long for meaning because suffering demands an answer. We long for beauty because our hearts instinctively recognize that life was meant for more than survival. Even the images I found most difficult to embrace were often rooted in genuine human needs.
 
-As I listened, I realized that these two individuals represented more than opposing viewpoints. They represented different chapters of my own story. One reflected where I had been. The other reflected where I find myself today.
+The issue, I slowly came to believe, was not that people worship entirely different gods.
 
-Yet what disturbed me most was not the fundamentalist's certainty.
+It was that we all see the same inexhaustible mystery through different windows.
 
-It was my reaction to it.
+That realization became the seed of this book.
 
-I found myself judging him.
+Although I write from within the Christian tradition, I have not written this book primarily to defend Christianity, critique Christianity, or persuade anyone toward a particular denomination. My own life has been profoundly shaped by the person of Jesus, and the language of Christian faith is the language through which I have learned to speak about God. It is the home from which I write.
 
-I felt a subtle sense of superiority arise within me. A quiet conviction that I had moved beyond his way of seeing the world. In that moment I was no longer acting from understanding or compassion. I was simply expressing a different form of certainty.
+Yet one of the deepest convictions that has grown within me is that God is always greater than my understanding of God.
 
-The labels had changed.
+If God is truly infinite, then no single tradition, culture, denomination, philosophy, or individual can exhaust the mystery of the One who gives life to all things. This does not diminish the beauty of any tradition. Rather, it invites each of us to hold our convictions with both confidence and humility—to speak honestly about what we have seen while remaining open to the possibility that there is always more to discover.
 
-The ego had not.
+Because of this, you may find yourself in these pages whether you consider yourself deeply religious or not.
 
-That realization stopped me in my tracks.
+Perhaps you are a lifelong Christian.
 
-It occurred to me that we often become like the God we worship.
+Perhaps you are questioning everything you once believed.
 
-If we worship a God who divides the world into insiders and outsiders, we will emphasize division. If we worship a God who delights in judgment, we will become agents of judgment. If we worship a God of compassion, we will become more compassionate. If we worship a God of reconciliation, we will seek reconciliation.
+Perhaps you belong to another faith entirely.
 
-Whether we realize it or not, our image of God becomes a blueprint for our lives.
+Perhaps you are unsure whether you believe in God at all.
 
-And perhaps this extends beyond formal religion. Whatever we place at the center of our attention—whatever we treat as ultimate—slowly shapes us in its image. The things we worship become the things we embody.
+I hope you will continue reading.
 
-I could feel that pull toward judgment within myself. Not because it was evil, but because it belonged to an earlier stage of my own development. A younger version of myself. One that still surfaces from time to time.
+Because, beneath the religious language, this book is really about something every human being shares.
 
-I wanted to understand it better.
+We all worship.
 
-That desire led me back to one of the most famous sermons in American history: *Sinners in the Hands of an Angry God* by Jonathan Edwards.
+Not always in churches, mosques, synagogues, or temples.
 
-Like many people, I knew the sermon by reputation. It stands as perhaps the quintessential example of fire-and-brimstone preaching. Yet I realized that I had never truly sat with it. I had never allowed its imagery, its assumptions, and its vision of God to wash over me without immediately reacting.
+We worship whenever we organize our lives around what we believe to be ultimate.
 
-So I decided to read it again.
+For some, that ultimate reality is God.
 
-Not to condemn it.
+For others it is success.
 
-Not to refute it.
+Or certainty.
 
-Not even to defend it.
+Or freedom.
 
-Simply to observe what was there.
+Or beauty.
 
-What kind of God emerges from its pages? What kind of human being does such a vision create? Why did it resonate so deeply with some people and leave others wounded? And perhaps most importantly, what does my own reaction to it reveal about the God I carry within me?
+Or reason.
 
-Those questions became the seeds of this book.
+Or belonging.
 
-This is not a book about proving one image of God right and another wrong.
+Or even love itself.
 
-It is an exploration of the many faces we give to the divine, the values those faces embody, and the ways they shape the people we become.
+Whatever occupies that highest place in our hearts quietly shapes the people we become.
 
-For whether we know it or not, we are all being formed by the things we hold sacred.
+That is the central conviction of this book.
 
-And sooner or later, every image of God leaves the page and enters a human life.
+We become like what we worship.
+
+The chapters that follow explore a series of images through which human beings have understood the divine. These are not different gods competing with one another. They are different portraits of the one mystery that forever exceeds every portrait we paint. Each image reveals something true. Each conceals something as well. Each forms us in particular ways.
+
+My hope is not that you will finish this book with a new image of God to defend.
+
+Quite the opposite.
+
+I hope you finish with greater gratitude for the images that have guided you, greater compassion for those whose windows differ from your own, and greater wonder before the infinite Love that no image can ever fully contain.
+
+If this book accomplishes even that much, then it will have served its purpose.
+
+So wherever you find yourself on the journey—certain or uncertain, devout or skeptical, wounded or hopeful—I invite you to walk with me.
+
+Not toward a smaller God we can finally explain.
+
+But toward the One who continually invites us beyond every image into ever-deepening wonder.
